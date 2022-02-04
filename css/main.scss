@@ -6,4 +6,22 @@ body {
 	h1 {
 		color: brown;
 	}
+
+	.book {
+		background: #eee;
+		margin: 0 10px 10px 0;
+		padding: 20px;
+		h3 {
+			font-size: 1.6rem;
+			margin: 0 0 10px 0;
+			padding: 0;
+		}
+		.description {
+			font-style: italic;
+		}
+		.price {
+			margin: 10px 0 0 0;
+			color: brown;
+		}
+	}
 }

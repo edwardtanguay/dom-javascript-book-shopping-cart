@@ -6,10 +6,10 @@ contentElem.innerHTML += `<h2>${books.length} Books</h2>`;
 
 contentElem.innerHTML += books.map(book => {
 	return `
-	<div className="book">
-		<div className="title">${book.title}</div>
-		<div className="description">${book.description}</div>
-		<div className="price">${book.price}</div>
+	<div class="book">
+		<h3>${book.title}</h3>
+		<div class="description">${book.description}</div>
+		<div class="price">${book.price} €</div>
 	</div>
 `;
 }).join('');

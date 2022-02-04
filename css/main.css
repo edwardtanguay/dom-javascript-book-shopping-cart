@@ -7,3 +7,24 @@ body {
 body h1 {
   color: brown;
 }
+
+body .book {
+  background: #eee;
+  margin: 0 10px 10px 0;
+  padding: 20px;
+}
+
+body .book h3 {
+  font-size: 1.6rem;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+
+body .book .description {
+  font-style: italic;
+}
+
+body .book .price {
+  margin: 10px 0 0 0;
+  color: brown;
+}
