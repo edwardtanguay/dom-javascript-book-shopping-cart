@@ -1,0 +1,19 @@
+{
+  "name": "dom-javascript-book-shopping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardtanguay/dom-javascript-book-shopping-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardtanguay/dom-javascript-book-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/edwardtanguay/dom-javascript-book-shopping-cart#readme"
+}
