@@ -1,5 +1,5 @@
 - x main.js and change div .content
 - x books.js (import module) - three books info
 - x import data and show three books info on page
-- .. style books
-- make book component
+- x style books
+- .. make book component
