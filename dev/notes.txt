@@ -1,0 +1,3 @@
+- .. main.js and change div .content
+- data.js (import module) - three books info
+- import data and show three books info on page
