@@ -2,4 +2,10 @@
 - x books.js (import module) - three books info
 - x import data and show three books info on page
 - x style books
-- .. make book component
+- x make book component
+- .. make cart area
+- on each book, make a Add to Cart button that puts book in cart
+
+
+- refactor HTML so: <div class="root"></div>
+- refactor into store and cart (all books/product in store)

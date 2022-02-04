@@ -8,6 +8,11 @@ body h1 {
   color: brown;
 }
 
+body .cart {
+  background: #f8f8bf;
+  padding: 20px;
+}
+
 body .book {
   background: #eee;
   margin: 0 10px 10px 0;
