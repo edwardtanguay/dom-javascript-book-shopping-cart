@@ -8,8 +8,8 @@ const cartElem = document.querySelector('.cart');
 const cart = new Cart();
 cartElem.innerHTML += cart.display();
 
-contentElem.innerHTML += books.map(_book => {
-	const book = new Book(_book);
+contentElem.innerHTML += books.map((_book,index) => {
+	const book = new Book(_book,index+1);
 	return book.display();
 }).join('');
 

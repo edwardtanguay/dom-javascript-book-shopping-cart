@@ -1,5 +1,9 @@
 export class Cart {
 	constructor() {
+		this.products = [];
+	}
+
+	addProduct(product) {
 
 	}
 
