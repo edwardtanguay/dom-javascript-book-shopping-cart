@@ -4,6 +4,6 @@ export class Cart {
 	}
 
 	display() {
-		return 'this is the cart';
+		return '(no products yet)';
 	}
 }

@@ -3,8 +3,8 @@
 - x import data and show three books info on page
 - x style books
 - x make book component
-- .. make cart area
-- on each book, make a Add to Cart button that puts book in cart
+- x make cart area
+- .. on each book, make a Add to Cart button that puts book in cart
 
 
 - refactor HTML so: <div class="root"></div>

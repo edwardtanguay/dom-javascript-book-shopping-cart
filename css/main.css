@@ -30,6 +30,12 @@ body .book .description {
 }
 
 body .book .price {
-  margin: 10px 0 0 0;
   color: brown;
+}
+
+body .book .bottomArea {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0 0 0;
 }
